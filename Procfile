@@ -1,0 +1,1 @@
+web: gunicorn pontosturisticos.wsgi --log-file -
